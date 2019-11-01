@@ -1,3 +1,4 @@
+![https://github.com/karnadii/t440p/raw/master/ss.png](https://github.com/karnadii/t440p/raw/master/ss.png)
 # Thinkpad t440p EFI file
 ## Spec
 - Processor : Intel® Core™ i5 4300M
